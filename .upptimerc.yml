@@ -12,7 +12,7 @@ sites:
   - name: Filecoin Proofs
     url: https://proofs.filecoin.io
   - name: Filecoin Security
-    url: https://security.filecon.io
+    url: https://security.filecoin.io
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
