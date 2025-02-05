@@ -77,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/security.filecoin.io.ico",
     "slug": "filecoin-security",
     "status": "up",
-    "uptime": "2.12%",
-    "uptimeDay": "2.12%",
-    "uptimeWeek": "2.12%",
-    "uptimeMonth": "2.12%",
-    "uptimeYear": "2.12%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 518,
     "timeDay": 518,
     "timeWeek": 518,
     "timeMonth": 518,
     "timeYear": 518,
-    "dailyMinutesDown": {
-      "2025-02-05": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
