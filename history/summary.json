@@ -22,7 +22,7 @@
     "url": "https://www.r2dso.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.r2dso.com.ico",
     "slug": "r2-dso",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 294,
     "timeMonth": 298,
     "timeYear": 298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-17": 0
+    }
   },
   {
     "name": "Does Simon Need a Break?",
