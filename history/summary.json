@@ -22,19 +22,19 @@
     "url": "https://www.r2dso.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.r2dso.com.ico",
     "slug": "r2-dso",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 291,
-    "timeWeek": 294,
-    "timeMonth": 298,
-    "timeYear": 298,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 310,
+    "timeDay": 422,
+    "timeWeek": 326,
+    "timeMonth": 310,
+    "timeYear": 310,
     "dailyMinutesDown": {
-      "2025-02-17": 0
+      "2025-02-17": 12
     }
   },
   {
