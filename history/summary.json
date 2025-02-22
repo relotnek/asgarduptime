@@ -58,19 +58,19 @@
     "url": "https://proofs.filecoin.io",
     "icon": "https://icons.duckduckgo.com/ip3/proofs.filecoin.io.ico",
     "slug": "filecoin-proofs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 213,
-    "timeWeek": 168,
-    "timeMonth": 234,
-    "timeYear": 234,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 235,
+    "timeDay": 223,
+    "timeWeek": 176,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-02-22": 0
+      "2025-02-22": 21
     }
   },
   {
