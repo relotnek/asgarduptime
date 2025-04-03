@@ -79,7 +79,7 @@
     "url": "https://security.filecoin.io",
     "icon": "https://icons.duckduckgo.com/ip3/security.filecoin.io.ico",
     "slug": "filecoin-security",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -90,6 +90,8 @@
     "timeWeek": 319,
     "timeMonth": 402,
     "timeYear": 442,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   }
 ]
